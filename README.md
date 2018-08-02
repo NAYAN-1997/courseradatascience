@@ -1,2 +1,2 @@
-# courseradatascience
+# datasciencecoursera
 Basic repository
